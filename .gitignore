@@ -1,0 +1,18 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+.cache/
+
+venv/
+
+.vscode/
+# Ignore model files
+models/
+
+# Ignore other large files, like those with specific extensions
+*.pt  # For PyTorch models
+*.h5  # For Keras models
+*.bin  # For Hugging Face model weights
+*.pkl  # For pickled files

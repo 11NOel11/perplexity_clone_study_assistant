@@ -1,0 +1,12 @@
+transformers
+sentencepiece
+streamlit
+requests
+PyMuPDF
+sympy
+google-api-python-client
+python-dotenv
+plotly
+Pillow
+beautifulsoup4
+bs4
